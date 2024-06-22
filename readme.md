@@ -11,7 +11,7 @@ author:王湛然(车卓22-1)
 
 date:2024/06/21
 
-Email:wangzhanran@stumail.ysu.edu.cn
+Email: wangzhanran@stumail.ysu.edu.cn
 
 ## 2 项目要求
 
