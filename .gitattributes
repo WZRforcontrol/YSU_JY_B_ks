@@ -1,0 +1,7 @@
+# Ignore vendored files
+*.html linguist-vendored
+*.css linguist-vendored
+
+# Override language for specific files
+*.m linguist-language=MATLAB
+*.py linguist-language=Python
