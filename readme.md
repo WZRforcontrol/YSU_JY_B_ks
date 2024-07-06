@@ -61,4 +61,4 @@ Email: <wangzhanran@stumail.ysu.edu.cn>
 12. 对以后课设的同学的建议:多与老师沟通，不仅能收获机原的知识，还有人生指导nuo
 13. 用到的同学们可以点一个star吗，谢谢
 14. 祝大家也可以取得好成绩
-    ![96](fig\成绩.png)
+    ![96](fig\jd.png)
